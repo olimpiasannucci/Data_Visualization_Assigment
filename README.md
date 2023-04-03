@@ -1,3 +1,3 @@
 # Data_Visualization_Assigment
 
-Code project to familiarise with visualisation tools on python, especially matplotlib and seaborn. 
+Little coding project made in order to start familiarising with Data Visualization Tools on python, using libraries like matplotlib and seaborn.
